@@ -5,6 +5,12 @@ p{
     font-family: "MS Pゴシック";
 }
 
+.b{
+    color :#fff;
+    font-size:16pt;
+    font-weight:bold;
+    font-family: "MS Pゴシック";
+}
 
 
 /*タイトル部分*/
@@ -72,6 +78,9 @@ p{
     .archive div {
         width: 70%;
         margin: 20px auto;
+    }
+    .b{
+        display: none;
     }
 }
 
